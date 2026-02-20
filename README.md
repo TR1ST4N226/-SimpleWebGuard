@@ -1,4 +1,4 @@
-# 🛡️ SimpleWebGuard
+# SimpleWebGuard
 
 **Web Vulnerability Auditor** - A Black-Box security scanner for automated reconnaissance during penetration testing.
 
@@ -115,7 +115,7 @@ node src/index.js https://example.com
 
 ```
 ═══════════════════════════════════════════════════════════════════
-  🛡️  SimpleWebGuard - Web Vulnerability Auditor
+   SimpleWebGuard - Web Vulnerability Auditor
   Black-Box Security Scanner for Web Applications
 ═══════════════════════════════════════════════════════════════════
 
@@ -230,14 +230,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **OWASP Security Headers**: https://owasp.org/www-project-secure-headers/
 - **Mozilla Observatory**: https://observatory.mozilla.org/
 - **SSL Labs**: https://www.ssllabs.com/ssltest/
-
----
-
-## 👨‍💻 Author
-
-Created with 💙 for the cybersecurity community.
-
----
 
 ## 📞 Support
 
